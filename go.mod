@@ -14,8 +14,8 @@ require (
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-getter v1.5.1
+	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/hashicorp/go-retryablehttp v0.6.6
 	github.com/hashicorp/go-version v1.2.1
